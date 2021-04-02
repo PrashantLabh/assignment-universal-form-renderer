@@ -1,0 +1,32 @@
+{
+  "name": "zivame-assignment-universal-form-renderer",
+  "version": "4.0.1",
+  "description": "Universal form renderer creates Forms with Config/Json by using web components using web api and javascipt",
+  "main": "src/index.js src/formGenerator.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrashantLabh/assignment-universal-form-renderer.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "javascript",
+    "html",
+    "json",
+    "ui"
+  ],
+  "author": "prashantlabh604@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrashantLabh/assignment-universal-form-renderer/issues"
+  },
+  "homepage": "https://github.com/PrashantLabh/assignment-universal-form-renderer#readme"
+}
